@@ -1,0 +1,87 @@
+body{
+    margin:7%;
+    
+
+}
+
+.specialone h2{
+    margin:40px 0;
+    
+}
+.specialone img{
+    width: 87px;
+    height: 87px;
+}
+.specialone{
+    display: flex;
+    background-color: red;
+    padding: 10px;
+   margin: 10% 20%;
+    border-radius: 10px;
+}
+.specialone a{
+    text-decoration: none;
+}
+.specialtwo h2{
+    margin:40px 0;
+    
+}
+.specialtwo img{
+    width: 95px;
+    height: 87px;
+}
+.specialtwo{
+    display: flex;
+    background-color: greenyellow;
+    padding: 10px;
+   margin: 10% 20%;
+    border-radius: 10px;
+}
+.specialtwo a{
+    text-decoration: none;
+}
+.specialthree h2{
+    margin:40px 0;
+    
+}
+.specialthree img{
+    width: 87px;
+    height: 87px;
+}
+.specialthree{
+    display: flex;
+    background-color:rgb(200, 200, 255);
+    padding: 10px;
+   margin: 10% 20%;
+    border-radius: 10px;
+}
+.specialthree a{
+    text-decoration: none;
+}
+form{
+    margin: 10% 20%;
+}
+#special input{
+    padding: 20px;
+}
+.button a{
+    text-decoration: none;
+}
+input[type="text"]{
+    border-radius: 13px;
+    padding: 3px;
+}
+input[type="email"] {
+    border-radius: 13px;
+    padding: 3px;
+}
+button.button{
+    padding: 4px;
+}
+label{
+    color: brown;
+    font-weight: bolder;
+}
+b{
+    color: brown;
+}

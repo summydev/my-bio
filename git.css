@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+ background-image: url(sumayah2.jpg);
+ background-repeat: none;
+ background-position: center top;
+ background-size: cover;
+ padding: 12.4% 20px;
+}
+div.bio{
+    max-width: 40%;
+    margin: 2px 10%;
+    background-color: brown;
+    padding: 30px;
+    border-radius: 50px;
+    opacity:0.8;
+    text-align: center;
+   
+}
+button.firstbutton{
+    padding: 6px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 20px;
+    background-color:gold;
+    outline: none;
+}
+.firstbutton a{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(250, 79, 3);
+}
+button.secondbutton{
+    padding: 6px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:gold;
+    outline: none;
+}
+.secondbutton a{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(250, 79, 3);
+}
+.bio h1{
+    color:gold;
+}
+.bio p{
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+}
+ 
+@media screen and (max-width:736px){
+    h1{
+        color: blue;
+    }
+}

@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+.header h1{
+        margin:0;
+        font-family: cursive;
+        font-style: italic;
+        font-weight: bolder;
+        font-size: 35px;
+        margin-top: 90px;
+        color: brown;
+        outline-style: dashed;
+        letter-spacing: 8px;
+}
+.header{
+    display: flex;
+    background-color: beige;
+
+}
+.body{
+ 
+        background-image: linear-gradient(65deg, brown, gold);
+   
+}
