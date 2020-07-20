@@ -54,8 +54,9 @@ button.secondbutton{
     font-weight: 900;
 }
  
-@media screen and (max-width:736px){
-    h1{
-        color: blue;
+
+@media (max-width:1024px){
+   .bio h1{
+        color: blue ;
     }
 }
